@@ -1,4 +1,4 @@
-# Elementary-Calculator-
+# Elementary-Calculator-Project
 Python Project - 03
 
 # Python program to create a simple calculator
